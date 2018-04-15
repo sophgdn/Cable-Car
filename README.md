@@ -1,7 +1,7 @@
 # Cable-Car
 A handwritten sans serif typeface with Latin glyphs, ideal for use in headings 
 
-##To do 
+## To do 
 - [x] Regular weight typeface
 - [x] Add numbers to font
 - [ ] Light weight typeface
