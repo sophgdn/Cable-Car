@@ -10,5 +10,5 @@ A handwritten sans serif typeface with Latin glyphs, ideal for use in headings
 <br>
 
 <p align="center">
-<img src="http://i66.tinypic.com/2urtls0.png" border="0" alt="Image of cable car font">
+<img src="http://i65.tinypic.com/2e4gqd4.png" border="0" alt="Cable Car font sample">
 </p>
