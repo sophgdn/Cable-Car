@@ -5,7 +5,7 @@ A handwritten sans serif typeface with Latin glyphs, ideal for use in headings
 - [x] Regular weight typeface
 - [x] Numbers
 - [ ] Light weight typeface
-- [ ] Add the <a href="https://github.com/googlefonts/tools/blob/master/encodings/latin_unique-glyphs.nam">complete set of glyphs</a>
+- [ ] Add the <a href="https://github.com/googlefonts/tools/blob/master/encodings/latin_unique-glyphs.nam">complete set of Latin glyphs</a>
 
 <br>
 
