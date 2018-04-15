@@ -2,7 +2,7 @@
 A handwritten sans serif typeface with Latin glyphs, ideal for use in headings 
 
 ## Installation (Mac) 
-* Download either font file (either one will work, it isn't nessisary to download both) 
+* Download one of the font files (either one will work, it isn't necessary to download both) 
 * Go to finder and in the menu bar, go to `Go`
 * Hold down the `Alt/option` key and you will see the menu item `Library`. Open it. 
 * Inside `Library` find a file called `Fonts`. Copy the font file and paste it anywhere in the `Fonts` folder. 
