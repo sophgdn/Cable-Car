@@ -11,7 +11,7 @@ A handwritten sans serif typeface with Latin glyphs, ideal for use in headings
 ## To do 
 - [x] Regular weight typeface
 - [x] Numbers
-- [ ] Light weight typeface
+- [x] Light weight typeface
 - [ ] Add the <a href="https://github.com/googlefonts/tools/blob/master/encodings/latin_unique-glyphs.nam">complete set of Latin glyphs</a>
 
 <br>
